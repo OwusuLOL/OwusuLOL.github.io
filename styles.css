@@ -61,6 +61,10 @@ main {
     font-size: 32px;
     text-align: center;
 }
+.description {
+    font-size: small;
+    text-align: center;
+}
 
 .about_list li {
     text-align: center;
@@ -92,4 +96,12 @@ main {
 .item img {
     width: 100%;
     max-width: 400px;
+}
+
+#gameframe {
+    height: 100%;
+    width: 95%;
+    background-color: #1e1e20;
+    margin: auto;
+    display: block;
 }
